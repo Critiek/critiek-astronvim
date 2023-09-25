@@ -4,7 +4,7 @@ A user configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## 🛠️ Installation
 
-#### Make a backup of your current nvim and shared folder if you use NeoVim
+### Make a backup of your current nvim and shared folder if you use NeoVim
 
 Windows
 ```shell
@@ -17,7 +17,7 @@ mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak
 ```
 
-#### Clone AstroNvim
+### Clone AstroNvim
 
 Windows
 ```shell
@@ -29,7 +29,7 @@ Linux/MacOS
 git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 ```
 
-#### Clone the repository
+### Clone the repository
 
 Windows
 ```shell
@@ -41,7 +41,7 @@ Linux/MacOS
 git clone https://github.com/Critiek/critiek-astronvim ~/.config/nvim/lua/user
 ```
 
-#### Start Neovim
+### Start Neovim
 
 ```shell
 nvim
